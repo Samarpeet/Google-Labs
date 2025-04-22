@@ -1,9 +1,11 @@
 gcloud config set compute/zone "ZONE"
 export ZONE=$(gcloud config get compute/zone)
-//The above are my region for the lab
 
 gcloud config set compute/region "REGION"
 export REGION=$(gcloud config get compute/region)
+
+//The above are my region for the lab
+
 gcloud pubsub topics create new-lab-report
 
 gcloud services enable run.googleapis.com
