@@ -1,5 +1,9 @@
 # Google-Labs
-These are my Labs and the code which worked for the labs I have worked on
-  1.The Zone can defer to any individual refering to the codes here
-  2.The Regoin can defer to any individual refering to the codes here
-  3.The configurations for the VM set-up may vary 
+
+These are the labs I’ve worked on, along with the code that was successfully used. Please keep the following in mind:
+
+  1. Zone: Can be adjusted by any individual referencing the provided code.
+
+  2. Region: Can be modified by any individual referencing the provided code.
+
+  3. VM Configuration: May vary depending on individual use cases or preferences.
