@@ -15,6 +15,14 @@ Before you dive in:
 - This isn't meant to shortcut the learning process, but to **support** it with real, working examples.
 
 ---
+### Run the following Commands in CloudShell
+
+```
+curl -LO https://raw.githubusercontent.com/Samarpeet/Google-Labs/refs/heads/main/SingleStore%20and%20Google%20Cloud/Samar.sh
+sudo chmod +x Samar.sh
+./Samar.sh
+```
+---
 
 ## 🌍 Zones, Regions & VM Setup
 
