@@ -57,7 +57,7 @@ The `gcp-data-drive` Go app exposes data via HTTP URL patterns from Firestore an
 ---
 
 ## Deployment Commands
-Running the Samar.sh file should **Deploy Go Apps on Google Cloud Serverless Platforms** and complete all tasks at once.
+Running the ***Samar.sh*** file should **Deploy Go Apps on Google Cloud Serverless Platforms** and complete all tasks at once.
 
 ### Set up environment
 
