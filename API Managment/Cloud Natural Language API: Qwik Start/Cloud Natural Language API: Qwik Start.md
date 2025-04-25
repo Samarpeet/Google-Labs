@@ -21,7 +21,7 @@
 <p><strong>☁️ Run in Cloud Shell:</strong></p>
 
 ```bash
-curl -LO https://raw.githubusercontent.com/Samarpeet/Google-Labs/refs/heads/main/API%20Managment/API%20Gateway%3A%20Qwik%20Start/samar.sh
+curl -LO https://raw.githubusercontent.com/Samarpeet/Google-Labs/refs/heads/main/API%20Managment/Cloud%20Natural%20Language%20API%3A%20Qwik%20Start/samar.sh
 sudo chmod +x samar.sh
 ./samar.sh
 ```
