@@ -10,9 +10,9 @@
 export ZONE=
 ```
 ```
-curl -LO https://raw.githubusercontent.com/Samarpeet/Google-Labs/refs/heads/main/API%20Managment/The%20Basics%20of%20Google%20Cloud%20Compute%3A%20Challenge%20Lab/samar.sh
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/The%20Basics%20of%20Google%20Cloud%20Compute%20Challenge%20Lab/arc120.sh
 
-sudo chmod +x samar.sh
+sudo chmod +x arc120.sh
 
 ./samar.sh
 ```
